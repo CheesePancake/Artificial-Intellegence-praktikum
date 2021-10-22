@@ -1,4 +1,4 @@
-### Tutorial membuat akun github
+# Tutorial membuat akun github
 
 > Pertama silahkan menuju halaman utama github dengan [klik disini](https://www.github.com)
 
