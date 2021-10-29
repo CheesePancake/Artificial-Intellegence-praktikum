@@ -5,7 +5,9 @@ Rossi mengendarai motor GP di lintasan balap dengan kecepatan tetap. Dalam 5 jam
 motor tersebut sudah menempuh jarak 700 km. Berapa Kecepatan Motor GP Rossi?
 ```
 > Flowgorithm
+
 ![image](https://user-images.githubusercontent.com/92983457/139373680-3462f362-0499-4941-867c-814590508bbc.png)
+
 ![image](https://user-images.githubusercontent.com/92983457/139372435-fa107524-7ca4-4109-a286-3cb36366818b.png)
 
 > Visual Studio Code
@@ -19,7 +21,9 @@ perjalannya adalah 30 menit. Jika kecepatan sepeda 20 km/jam, Berapa jarak dari
 rumah Pak Jul ke kantor?
 ```
 > Flowgorithm
+
 ![image](https://user-images.githubusercontent.com/92983457/139375275-5a757014-4ef6-48af-8d8f-9ff6384556b5.png)
+
 ![image](https://user-images.githubusercontent.com/92983457/139375434-85596521-300f-45ce-8791-ddcd3f163df8.png)
 
 > Visual Studio Code
@@ -33,7 +37,9 @@ Yunan akan menempuh jarak sejauh 50 km untuk sampai di tempat tujuan. Berapa lam
 waktu yang dibutuhkan Oleh Pak Yunan?
 ```
 > Flowgorithm
+
 ![image](https://user-images.githubusercontent.com/92983457/139379912-25a3c7cd-e539-4e6e-9c68-a490332e270f.png)
+
 ![image](https://user-images.githubusercontent.com/92983457/139379989-c3ffa31d-423a-4ee5-a688-f29d3af4a0c7.png)
 
 > Visual Studio Code
