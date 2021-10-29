@@ -1,0 +1,2 @@
+# SOAL
+## Skala peta (cm)
