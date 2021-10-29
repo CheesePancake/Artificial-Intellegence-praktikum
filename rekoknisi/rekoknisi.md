@@ -1,3 +1,23 @@
+# proses "pengerjaan" seluruh kode dibawah
+
+1. membuat sebuah flowchart
+
+![image](https://user-images.githubusercontent.com/92983457/139357752-80e75059-39ce-4e37-a2a7-147fc15fc4f3.png)
+
+2. menjalankan program pada flowgorithm
+
+![image](https://user-images.githubusercontent.com/92983457/139358438-e4b63ab4-bd8a-41eb-9c3d-b2a4594a2f8d.png)
+
+
+3. mengubah flowchart menjadi source code python
+
+![image](https://user-images.githubusercontent.com/92983457/139357846-2cad005f-0c15-44b6-bd24-8632c30688b3.png)
+
+4. Modifikasi penulisan dan menjalankan program di vscode
+
+![image](https://user-images.githubusercontent.com/92983457/139358151-c4be4036-9c68-4b04-9b32-e2592e977f19.png)
+
+
 # Jawaban tugas rekoknisi proses run di vscode 
 
 ## a. Menghitng keliling dan luas persegi panjang 
