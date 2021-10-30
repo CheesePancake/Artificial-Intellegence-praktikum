@@ -21,6 +21,9 @@ motor tersebut sudah menempuh jarak 700 km. Berapa Kecepatan Motor GP Rossi?
 
 > Visual Studio Code
 
+![image](https://user-images.githubusercontent.com/92983457/139543741-14625a28-1569-4e23-8f8e-bdfc45b240b0.png)
+
+
 ## 2. Jarak tempuh ke kantor
 ```
 Pak Julkarnain berangkat kerja ke UTS dengan mengendarai Sepeda. Lama
