@@ -4,6 +4,7 @@
 Rossi mengendarai motor GP di lintasan balap dengan kecepatan tetap. Dalam 5 jam,
 motor tersebut sudah menempuh jarak 700 km. Berapa Kecepatan Motor GP Rossi?
 ```
+### Konsep 1
 > Flowgorithm
 
 ![image](https://user-images.githubusercontent.com/92983457/139373680-3462f362-0499-4941-867c-814590508bbc.png)
@@ -14,12 +15,19 @@ motor tersebut sudah menempuh jarak 700 km. Berapa Kecepatan Motor GP Rossi?
 
 ![image](https://user-images.githubusercontent.com/92983457/139373303-f38e459f-cc8f-424c-a29b-e2b6bd61bd7d.png)
 
+### Konsep 2
+> Flowgorithm
+
+
+> Visual Studio Code
+
 ## 2. Jarak tempuh ke kantor
 ```
 Pak Julkarnain berangkat kerja ke UTS dengan mengendarai Sepeda. Lama
 perjalannya adalah 30 menit. Jika kecepatan sepeda 20 km/jam, Berapa jarak dari
 rumah Pak Jul ke kantor?
 ```
+### Konsep 1
 > Flowgorithm
 
 ![image](https://user-images.githubusercontent.com/92983457/139375275-5a757014-4ef6-48af-8d8f-9ff6384556b5.png)
@@ -30,12 +38,19 @@ rumah Pak Jul ke kantor?
 
 ![image](https://user-images.githubusercontent.com/92983457/139375763-2262ac93-d729-4824-bb30-b9e58798a805.png)
 
+### Konsep 2
+> Flowgorithm
+
+
+> Visual Studio Code
+
 ## 3. Waktu tempuh
 ```
 Pak Yunan mengendarai motor dengan dengan kecepatan 180 km/jam. Motor pak
 Yunan akan menempuh jarak sejauh 50 km untuk sampai di tempat tujuan. Berapa lama
 waktu yang dibutuhkan Oleh Pak Yunan?
 ```
+### Konsep 1
 > Flowgorithm
 
 ![image](https://user-images.githubusercontent.com/92983457/139379912-25a3c7cd-e539-4e6e-9c68-a490332e270f.png)
@@ -46,3 +61,7 @@ waktu yang dibutuhkan Oleh Pak Yunan?
 
 ![image](https://user-images.githubusercontent.com/92983457/139381526-27f30145-f5fb-48ba-b086-0afa9506555f.png)
 
+### Konsep 2
+> Flowgorithm
+
+> Visual Studio Code
